@@ -1,5 +1,7 @@
 # TouchDesigner Face Tracking and Expression Classification
 
+![Demo Image](/../demo0.jpg?raw=true)
+
 Based off of and entierly dependant on:
 
 https://github.com/oarriaga/face_classification
