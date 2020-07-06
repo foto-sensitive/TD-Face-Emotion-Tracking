@@ -1,4 +1,4 @@
-# TouchDesigner face tracking and expression classification
+# TouchDesigner Face Tracking and Expression Classification
 
 Based off of and depends entierly on:
 
