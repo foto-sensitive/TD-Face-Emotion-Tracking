@@ -1,6 +1,6 @@
 # TouchDesigner Face Tracking and Expression Classification
 
-![image text](https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png)
+![image text](https://raw.githubusercontent.com/rpavl/TD-Face-Tracking/master/demo0.jpg)
 
 Based off of and entierly dependant on:
 
